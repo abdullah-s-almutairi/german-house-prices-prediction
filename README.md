@@ -16,7 +16,7 @@ Link to Dataset
 # Algorithms
 •	In this problem we will use the Regression Algorithms to make predictions about data.
 
-Tools
+# Tools
 I will used the following popular Python libraries in data science 
 •	NumPy
 •	Pandas
